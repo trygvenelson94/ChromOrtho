@@ -282,36 +282,20 @@ This prototype represents initial exploration of machine learning for orthogonal
 
 ---
 
-## Citation
-
-If you use ChromOrtho in your research, please cite:
-
-```
-[Citation information to be added upon publication]
-```
-
----
-
 ## License
 
 MIT License - See LICENSE file for details
 
 ---
 
-## Contact
-
-For questions, suggestions, or collaboration inquiries:
-- Open an issue on GitHub
-- Contact: [Your contact information]
-
----
-
 ## Acknowledgments
 
 This work builds upon established principles in:
+- Cramer Lab - Rensselaer Polytechnic Institute
 - Siamese neural networks for similarity learning
 - Cheminformatics descriptor development
 - Chromatography separation science
+
 
 ---
 
