@@ -6,7 +6,7 @@ Predicting chromatographic separability for orthogonal resin pair selection in i
 
 ## Status: Prototype / Research Stage
 
-**⚠️ This model is currently under development and NOT ready for deployment or predictive use.**
+** This model is currently under development and NOT ready for deployment or predictive use.**
 
 While the architecture is functional and can be trained, the model does not yet achieve sufficient predictive performance for practical applications. This repository serves as a research prototype and documentation of the approach.
 
